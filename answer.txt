@@ -1,0 +1,898 @@
+Donnez les titres des albums qui ont plus de 1 CD.
+
+TITLE
+Restless and Wild
+Facelift
+BackBeat Soundtrack
+The Best Of Billy Cobham
+Alcohol Fueled Brewtality Live! [Disc 1]
+Black Sabbath
+Black Sabbath Vol. 4 (Remaster)
+Prenda Minha
+Afrociberdelia
+Da Lama Ao Caos
+Cidade Negra - Hits
+Carnaval 2001
+Garage Inc. (Disc 1)
+Greatest Hits II
+Greatest Kiss
+Heart of the Night
+Meus Momentos
+Supernatural
+Up An'' Atom
+Deep Purple In Rock
+Purpendicular
+Stormbringer
+The Battle Rages On
+Angel Dust
+Roda De Funk
+Quanta Gente Veio Ver (Live)
+Faceless
+Use Your Illusion II
+Iron Maiden
+Killers
+The X Factor
+Virtual XI
+Presence
+Lulu Santos - RCA 100 Anos De Música - Álbum 02
+Seek And Shall Find: More Of The Best (1963-1981)
+ReLoad
+Ace Of Spades
+Compositores
+Blizzard of Ozz
+Original Soundtracks 1
+Santana Live
+The Best Of 1980-1990
+The Final Concerts (Disc 2)
+Unplugged
+Deixa Entrar
+Somewhere in Time
+Lulu Santos - RCA 100 Anos De Música - Álbum 01
+Minas
+Tribute
+By The Way
+Voodoo Lounge
+Serie Sem Limite (Disc 1)
+Realize
+Adorate Deum: Gregorian Chant from the Proper of the Mass
+The World of Classical Favourites
+Elgar: Cello Concerto & Vaughan Williams: Fantasias
+J.S. Bach: Chaconne
+Minha Historia
+Physical Graffiti [Disc 1]
+Outbreak
+Fear Of The Dark
+Are You Experienced?
+The Song Remains The Same (Disc 1)
+A TempestadeTempestade Ou O Livro Dos Dias
+Load
+Ride The Lightning
+Rotten Apples: Greatest Hits
+The Singles
+The Doors
+The Office
+The Real Thing
+In Your Honor [Disc 1]
+The Colour And The Shape
+Rock In Rio [CD2]
+Seventh Son of a Seventh Son
+Sex Machine
+Synkronized
+Houses Of The Holy
+In Through The Out Door
+Greatest Hits
+Misplaced Childhood
+Miles Ahead
+Milton Nascimento Ao Vivo
+From The Muddy Banks Of The Wishkah [Live]
+Nevermind
+Arquivo Os Paralamas Do Sucesso
+No More Tears (Remastered)
+Pearl Jam
+Riot Act
+Vs.
+Os Cães Ladram Mas A Caravana Não Pára
+Blood Sugar Sex Magik
+A-Sides
+Morning Dance
+Core
+Live [Disc 2]
+The Police Greatest Hits
+Tangents
+My Generation - The Very Best Of The Who
+Heroes
+Lost
+American Idiot
+Maquinarama
+[1997] Black Light Syndrome
+Volume Dois
+How To Dismantle An Atomic Bomb
+Van Halen III
+Contraband
+The Office
+Aquaman
+Beyond Good And Evil
+Allegri: Miserere
+Vivaldi: The Four Seasons
+Mozart: Wind Concertos
+Haydn: Symphonies 99 - 104
+Holst: The Planets
+Beethoven Piano Sonatas: Moonlight & Pastorale
+Bizet: Carmen Highlights
+English Renaissance
+Mendelssohn: A Midsummer Night''s Dream
+Bach: Orchestral Suites Nos. 1 - 4
+South American Getaway
+Purcell: The Fairy Queen
+Liszt - 12 Études D''Execution Transcendante
+Get Born
+...And Justice For All
+Album Of The Year
+King For A Day Fool For A Lifetime
+BBC Sessions [Disc 2] [Live]
+Walking Into Clarksdale
+Serie Sem Limite (Disc 2)
+Battlestar Galactica
+Lost
+Vinicius De Moraes
+Speak of the Devil
+Master Of Puppets
+St. Anger
+Hot Rocks
+Diver Down
+Achtung Baby
+House of Pain
+Quiet Songs
+Duos II
+Worlds
+Temple of the Dog
+Carry On
+Pachelbel: Canon & Gigue
+Bach: Violin Concertos
+Bach: Goldberg Variations
+Bach: The Cello Suites
+A Soprano Inspired
+Tchaikovsky: The Nutcracker
+The Last Night of the Proms
+A Copland Celebration
+Sibelius: Finlandia
+Berlioz: Symphonie Fantastique
+Armada: Music from the Courts of England and Spain
+Purcell: Music for the Queen Mary
+Great Recordings of the Century - Shubert: Schwanengesang
+Respighi:Pines of Rome
+Led Zeppelin II
+Dark Side Of The Moon
+All That You Cant Leave Behind
+Puccini: Madama Butterfly - Highlights
+Grieg: Peer Gynt Suites & Sibelius: Pelléas et Mélisande
+Weill: The Seven Deadly Sins
+Fauré: Requiem
+Adams
+The Ultimate Relexation Album
+
+2.Donnez les morceaux produits en 2000 ou en 2002.
+
+Query produced no results
+
+3.Donnez le nom et le compositeur des morceaux de Rock et de Jazz.
+
+
+TRACKNAME,COMPOSER,GENRE
+For Those About To Rock (We Salute You),Angus Young
+Put The Finger On You,Angus Young
+Let''s Get It Up,Angus Young
+Inject The Venom,Angus Young
+Snowballed,Angus Young
+Evil Walks,Angus Young
+C.O.D.,Angus Young
+Breaking The Rules,Angus Young
+Night Of The Long Knives,Angus Young
+Spellbound,Angus Young
+Go Down,AC/DC,Rock
+Dog Eat Dog,AC/DC,Rock
+Let There Be Rock,AC/DC,Rock
+Bad Boy Boogie,AC/DC,Rock
+Problem Child,AC/DC,Rock
+Overdose,AC/DC,Rock
+Hell Ain''t A Bad Place To Be,AC/DC,Rock
+Whole Lotta Rosie,AC/DC,Rock
+Balls to the Wall,nan,Jazz
+Fast As a Shark,F. Baltes
+Restless and Wild,F. Baltes
+Princess of the Dawn,Deaffy & R.A. Smith-Diesel,Jazz
+Walk On Water,Steven Tyler
+Love In An Elevator,Steven Tyler
+Rag Doll,Steven Tyler
+What It Takes,Steven Tyler
+Dude (Looks Like A Lady),Steven Tyler
+Janie''s Got A Gun,Steven Tyler
+Cryin'',Steven Tyler
+Amazing,Steven Tyler
+Blind Man,Steven Tyler
+Deuces Are Wild,Steven Tyler
+The Other Side,Steven Tyler
+Crazy,Steven Tyler
+Eat The Rich,Steven Tyler
+Angel,Steven Tyler
+Livin'' On The Edge,Steven Tyler
+Walk On Water,Steven Tyler
+Love In An Elevator,Steven Tyler
+Rag Doll,Steven Tyler
+What It Takes,Steven Tyler
+Dude (Looks Like A Lady),Steven Tyler
+Janie''s Got A Gun,Steven Tyler
+Cryin'',Steven Tyler
+Amazing,Steven Tyler
+Blind Man,Steven Tyler
+Deuces Are Wild,Steven Tyler
+The Other Side,Steven Tyler
+Crazy,Steven Tyler
+Eat The Rich,Steven Tyler
+Angel,Steven Tyler
+Livin'' On The Edge,Steven Tyler
+Fast As a Shark,F. Baltes
+Restless and Wild,F. Baltes
+Princess of the Dawn,Deaffy & R.A. Smith-Diesel,Jazz
+For Those About To Rock (We Salute You),Angus Young
+Put The Finger On You,Angus Young
+Let''s Get It Up,Angus Young
+Inject The Venom,Angus Young
+Snowballed,Angus Young
+Evil Walks,Angus Young
+C.O.D.,Angus Young
+Breaking The Rules,Angus Young
+Night Of The Long Knives,Angus Young
+Spellbound,Angus Young
+Go Down,AC/DC,Rock
+Dog Eat Dog,AC/DC,Rock
+Let There Be Rock,AC/DC,Rock
+Bad Boy Boogie,AC/DC,Rock
+Problem Child,AC/DC,Rock
+Overdose,AC/DC,Rock
+Hell Ain''t A Bad Place To Be,AC/DC,Rock
+Whole Lotta Rosie,AC/DC,Rock
+Balls to the Wall,nan,Jazz
+Fast As a Shark,F. Baltes
+Restless and Wild,F. Baltes
+Princess of the Dawn,Deaffy & R.A. Smith-Diesel,Jazz
+Walk On Water,Steven Tyler
+Love In An Elevator,Steven Tyler
+Rag Doll,Steven Tyler
+What It Takes,Steven Tyler
+Dude (Looks Like A Lady),Steven Tyler
+Janie''s Got A Gun,Steven Tyler
+Cryin'',Steven Tyler
+Amazing,Steven Tyler
+Blind Man,Steven Tyler
+Deuces Are Wild,Steven Tyler
+The Other Side,Steven Tyler
+Crazy,Steven Tyler
+Eat The Rich,Steven Tyler
+Angel,Steven Tyler
+Livin'' On The Edge,Steven Tyler
+For Those About To Rock (We Salute You),Angus Young
+Balls to the Wall,nan,Jazz
+Fast As a Shark,F. Baltes
+Restless and Wild,F. Baltes
+Princess of the Dawn,Deaffy & R.A. Smith-Diesel,Jazz
+
+
+4. Donnez les 10 albums les plus longs.
+
+
+ALBUMTITLE,TOTALMILLISECONDS
+For Those About To Rock We Salute You,27746232
+
+5. Donnez le nombre d'albums produits pour chaque artiste.
+
+
+ARTISTNAME,NUMBEROFALBUMS
+Iron Maiden,21
+Led Zeppelin,14
+Deep Purple,11
+U2,10
+Metallica,10
+Ozzy Osbourne,6
+Pearl Jam,5
+Van Halen,4
+Lost,4
+Foo Fighters,4
+Faith No More,4
+Various Artists,4
+Miles Davis,3
+The Rolling Stones,3
+Os Paralamas Do Sucesso,3
+The Office,3
+Guns N'' Roses,3
+Berliner Philharmoniker & Herbert Von Karajan,3
+R.E.M.,3
+Queen,3
+Eugene Ormandy,3
+Red Hot Chili Peppers,3
+Santana,3
+Jamiroquai,3
+Gilberto Gil,3
+Audioslave,3
+Amy Winehouse,2
+Caetano Veloso,2
+Antônio Carlos Jobim,2
+The Cult,2
+Michael Tilson Thomas & San Francisco Symphony,2
+AC/DC,2
+Accept,2
+Black Label Society,2
+Cidade Negra,2
+English Concert & Trevor Pinnock,2
+Spyro Gyra,2
+Tim Maia,2
+The Tea Party,2
+Green Day,2
+Skank,2
+Milton Nascimento,2
+Smashing Pumpkins,2
+Titãs,2
+Kiss,2
+Cássia Eller,2
+Legião Urbana,2
+The Black Crowes,2
+Nirvana,2
+Creedence Clearwater Revival,2
+Eric Clapton,2
+Chico Science & Nação Zumbi,2
+Battlestar Galactica,2
+Lulu Santos,2
+Black Sabbath,2
+Djavan,2
+Jota Quest,1
+Velvet Revolver,1
+Heroes,1
+Raimundos,1
+Olodum,1
+Mötley Crüe,1
+Incognito,1
+JET,1
+Mônica Marianno,1
+Stone Temple Pilots,1
+Emerson String Quartet,1
+Fretwork,1
+Sir Georg Solti
+Academy of St. Martin in the Fields & Sir Neville Marriner,1
+Chris Cornell,1
+Emanuel Ax
+Otto Klemperer & Philharmonia Orchestra,1
+Alice In Chains,1
+Berliner Philharmoniker & Hans Rosbaud,1
+Hilary Hahn
+Dennis Chambers,1
+Philip Glass Ensemble,1
+Les Arts Florissants & William Christie,1
+Antal Doráti & London Symphony Orchestra,1
+Soundgarden,1
+Academy of St. Martin in the Fields
+Yo-Yo Ma,1
+Anne-Sophie Mutter
+House Of Pain,1
+Vinícius De Moraes,1
+Elis Regina,1
+O Rappa,1
+O Terço,1
+C. Monteverdi
+System Of A Down,1
+Zeca Pagodinho,1
+Scorpions,1
+Body Count,1
+Aisha Duo,1
+Temple of the Dog,1
+Scholars Baroque Ensemble,1
+Royal Philharmonic Orchestra & Sir Thomas Beecham,1
+Funk Como Le Gusta,1
+Stevie Ray Vaughan & Double Trouble,1
+Barry Wordsworth & BBC Concert Orchestra,1
+Felix Schmidt
+Herbert Von Karajan
+Gerald Moore,1
+Charles Dutoit & L''Orchestre Symphonique de Montréal,1
+Leonard Bernstein & New York Philharmonic,1
+Chor der Wiener Staatsoper
+Alberto Turco & Nova Schola Gregoriana,1
+Maurizio Pollini,1
+UB40,1
+Toquinho & Vinícius,1
+Passengers,1
+Marvin Gaye,1
+The Who,1
+Karsh Kale,1
+Luciana Souza/Romero Lubambo,1
+Aaron Goldberg,1
+London Symphony Orchestra & Sir Charles Mackerras,1
+Orchestra of The Age of Enlightenment,1
+The 12 Cellists of The Berlin Philharmonic,1
+Adrian Leaper & Doreen de Feis,1
+Kent Nagano and Orchestre de l''Opéra de Lyon,1
+Motörhead,1
+Marisa Monte,1
+James Brown,1
+Martin Roscoe,1
+Wilhelm Kempff,1
+Lenny Kravitz,1
+Dread Zeppelin,1
+Terry Bozzio
+Cake,1
+Nicolaus Esterhazy Sinfonia,1
+Richard Marlow & The Choir of Trinity College
+Academy of St. Martin in the Fields Chamber Ensemble & Sir Neville Marriner,1
+Berliner Philharmoniker
+Luciano Pavarotti,1
+James Levine,1
+Pink Floyd,1
+Calexico,1
+Boston Symphony Orchestra & Seiji Ozawa,1
+Chicago Symphony Chorus
+Mela Tenenbaum
+Göteborgs Symfoniker & Neeme Järvi,1
+Yehudi Menuhin,1
+The King''s Singers,1
+Chicago Symphony Orchestra & Fritz Reiner,1
+Sergei Prokofiev & Yuri Temirkanov,1
+Ton Koopman,1
+Britten Sinfonia
+The Police,1
+David Coverdale,1
+Billy Cobham,1
+Apocalyptica,1
+Os Mutantes,1
+Def Leppard,1
+Frank Sinatra,1
+João Suplicy,1
+Raul Seixas,1
+Gene Krupa,1
+R.E.M. Feat. Kate Pearson,1
+The Clash,1
+Sir Georg Solti & Wiener Philharmoniker,1
+Paul D''Ianno,1
+Battlestar Galactica (Classic),1
+Choir Of Westminster Abbey & Simon Preston,1
+Christopher O''Riley,1
+Marcos Valle,1
+Falamansa,1
+Judas Priest,1
+The Doors,1
+Cláudio Zoli,1
+Men At Work,1
+Buddy Guy,1
+Marillion,1
+Jorge Ben,1
+Gonzaguinha,1
+Frank Zappa & Captain Beefheart,1
+Bruce Dickinson,1
+Joe Satriani,1
+Ed Motta,1
+Orchestre Révolutionnaire et Romantique & John Eliot Gardiner,1
+Chico Buarque,1
+BackBeat,1
+Alanis Morissette,1
+Aerosmith,1
+Jimi Hendrix,1
+Aaron Copland & London Symphony Orchestra,1
+Michele Campanella,1
+Academy of St. Martin in the Fields
+The Posies,1
+Rush,1
+Page & Plant,1
+Habib Koité and Bamada,1
+Aquaman,1
+Planet Hemp,1
+Godsmack,1
+Gustav Mahler,1
+Philharmonia Orchestra & Sir Neville Marriner,1
+Equale Brass Ensemble
+Itzhak Perlman,1
+Nash Ensemble,1
+Roger Norrington
+Julian Bream,1
+Edo de Waart & San Francisco Symphony,1
+Barão Vermelho,0
+Santana Feat. Maná,0
+Santana Feat. Eric Clapton,0
+Pedro Luís & A Parede,0
+Jackson Browne,0
+Nega Gizza,0
+Hermeto Pascoal,0
+Gustavo & Andres Veiga & Salazar,0
+Regina Spektor,0
+Sabotage E Instituto,0
+Otto,0
+Motörhead & Girlschool,0
+Os Cariocas,0
+Santana Feat. Dave Matthews,0
+Jaguares,0
+The Postal Service,0
+Aerosmith & Sierra Leone''s Refugee Allstars,0
+Nação Zumbi,0
+Big & Rich,0
+Avril Lavigne,0
+Instituto,0
+João Gilberto,0
+Vinícius De Moraes & Baden Powell,0
+Edson
+Whitesnake,0
+Bebel Gilberto,0
+Xis,0
+Peter Tosh,0
+Fernanda Porto,0
+Jack''s Mannequin & Mick Fleetwood,0
+Mundo Livre S/A,0
+Youssou N''Dour,0
+Corinne Bailey Rae,0
+Simply Red,0
+R.E.M. Feat. KRS-One,0
+The Flaming Lips,0
+Matisyahu,0
+Black Eyed Peas,0
+Academy of St. Martin in the Fields
+Jack Johnson,0
+Dhani Harrison & Jakob Dylan,0
+Christina Aguilera featuring BigElf,0
+Snow Patrol,0
+Jorge Vercilo,0
+DJ Dolores & Orchestra Santa Massa,0
+Milton Nascimento & Bebeto,0
+Santana Feat. Rob Thomas,0
+Pedro Luís E A Parede,0
+Los Hermanos,0
+A Cor Do Som,0
+Baby Consuelo,0
+Luiz Melodia,0
+Seu Jorge,0
+Rodox,0
+Ney Matogrosso,0
+Los Lonely Boys,0
+Azymuth,0
+Vinícius E Qurteto Em Cy,0
+Sandra De Sá,0
+Santana Feat. Everlast,0
+Charlie Brown Jr.,0
+Kid Abelha,0
+Stereo Maracana,0
+Nando Reis,0
+Vinicius
+Ben Harper,0
+Santana Feat. The Project G&B,0
+Santana Feat. Eagle-Eye Cherry,0
+Vinícius E Odette Lara,0
+Santana Feat. Lauryn Hill & Cee-Lo,0
+Banda Black Rio,0
+
+
+6. Donnez le nombre de morceaux produits par chaque artiste.
+
+
+ARTISTNAME,NUMBEROFTRACKS
+AC/DC,1609
+Alice In Chains,566
+Accept,501
+Black Label Society,89
+Bruce Dickinson,87
+Alanis Morissette,81
+Caetano Veloso,73
+Black Sabbath,62
+Audioslave,58
+Antônio Carlos Jobim,58
+Apocalyptica,45
+Chico Buarque,40
+Billy Cobham,28
+Chico Science & Nação Zumbi,24
+BackBeat,22
+Body Count,13
+Aerosmith,12
+Buddy Guy,11
+Charlie Brown Jr.,0
+Luciana Souza/Romero Lubambo,0
+Temple of the Dog,0
+Sandra De Sá,0
+Philharmonia Orchestra & Sir Neville Marriner,0
+Leonard Bernstein & New York Philharmonic,0
+Herbert Von Karajan
+Judas Priest,0
+Godsmack,0
+Academy of St. Martin in the Fields Chamber Ensemble & Sir Neville Marriner,0
+Roger Norrington
+Gilberto Gil,0
+The Rolling Stones,0
+The Doors,0
+Academy of St. Martin in the Fields
+Dread Zeppelin,0
+Green Day,0
+Richard Marlow & The Choir of Trinity College
+Creedence Clearwater Revival,0
+Vinícius E Odette Lara,0
+R.E.M. Feat. KRS-One,0
+Nando Reis,0
+Stereo Maracana,0
+Incognito,0
+Planet Hemp,0
+Emanuel Ax
+Snow Patrol,0
+Smashing Pumpkins,0
+Santana Feat. Dave Matthews,0
+Lulu Santos,0
+Simply Red,0
+Christina Aguilera featuring BigElf,0
+Habib Koité and Bamada,0
+Santana,0
+Christopher O''Riley,0
+Aquaman,0
+Instituto,0
+Kent Nagano and Orchestre de l''Opéra de Lyon,0
+Men At Work,0
+Yehudi Menuhin,0
+Faith No More,0
+Raul Seixas,0
+Itzhak Perlman,0
+Peter Tosh,0
+Santana Feat. Everlast,0
+Falamansa,0
+The Police,0
+Page & Plant,0
+Martin Roscoe,0
+Zeca Pagodinho,0
+Frank Zappa & Captain Beefheart,0
+Santana Feat. The Project G&B,0
+The Postal Service,0
+Hermeto Pascoal,0
+Iron Maiden,0
+Funk Como Le Gusta,0
+Julian Bream,0
+Motörhead,0
+Aerosmith & Sierra Leone''s Refugee Allstars,0
+Mötley Crüe,0
+Academy of St. Martin in the Fields
+Rodox,0
+Santana Feat. Rob Thomas,0
+Miles Davis,0
+Stevie Ray Vaughan & Double Trouble,0
+Boston Symphony Orchestra & Seiji Ozawa,0
+Dennis Chambers,0
+Milton Nascimento & Bebeto,0
+Big & Rich,0
+Berliner Philharmoniker
+Fernanda Porto,0
+Antal Doráti & London Symphony Orchestra,0
+U2,0
+Banda Black Rio,0
+Alberto Turco & Nova Schola Gregoriana,0
+Cake,0
+Elis Regina,0
+Orchestra of The Age of Enlightenment,0
+Gustav Mahler,0
+Luciano Pavarotti,0
+Royal Philharmonic Orchestra & Sir Thomas Beecham,0
+Soundgarden,0
+Pedro Luís E A Parede,0
+Marillion,0
+Nicolaus Esterhazy Sinfonia,0
+Ton Koopman,0
+Terry Bozzio
+James Levine,0
+Emerson String Quartet,0
+Jimi Hendrix,0
+Maurizio Pollini,0
+Fretwork,0
+James Brown,0
+DJ Dolores & Orchestra Santa Massa,0
+The 12 Cellists of The Berlin Philharmonic,0
+Academy of St. Martin in the Fields & Sir Neville Marriner,0
+Mônica Marianno,0
+Michael Tilson Thomas & San Francisco Symphony,0
+Youssou N''Dour,0
+Los Lonely Boys,0
+Philip Glass Ensemble,0
+Nega Gizza,0
+The Flaming Lips,0
+Marvin Gaye,0
+Os Mutantes,0
+The Posies,0
+Os Paralamas Do Sucesso,0
+Djavan,0
+Paul D''Ianno,0
+Passengers,0
+João Gilberto,0
+Black Eyed Peas,0
+Marcos Valle,0
+Luiz Melodia,0
+Britten Sinfonia
+Cássia Eller,0
+Scorpions,0
+Michele Campanella,0
+Wilhelm Kempff,0
+Yo-Yo Ma,0
+Ben Harper,0
+Battlestar Galactica (Classic),0
+Whitesnake,0
+Berliner Philharmoniker & Herbert Von Karajan,0
+Mela Tenenbaum
+Jorge Ben,0
+Def Leppard,0
+R.E.M.,0
+The Cult,0
+Metallica,0
+Vinícius De Moraes,0
+Baby Consuelo,0
+Nirvana,0
+Santana Feat. Eric Clapton,0
+Ney Matogrosso,0
+Seu Jorge,0
+Nação Zumbi,0
+Sir Georg Solti
+Van Halen,0
+Charles Dutoit & L''Orchestre Symphonique de Montréal,0
+Barão Vermelho,0
+Tim Maia,0
+Edo de Waart & San Francisco Symphony,0
+Kiss,0
+The Office,0
+Vinicius
+Pedro Luís & A Parede,0
+Göteborgs Symfoniker & Neeme Järvi,0
+O Terço,0
+Ed Motta,0
+Felix Schmidt
+Jaguares,0
+Velvet Revolver,0
+Sergei Prokofiev & Yuri Temirkanov,0
+Olodum,0
+Joe Satriani,0
+Rush,0
+Aaron Goldberg,0
+Aaron Copland & London Symphony Orchestra,0
+Adrian Leaper & Doreen de Feis,0
+Foo Fighters,0
+R.E.M. Feat. Kate Pearson,0
+Orchestre Révolutionnaire et Romantique & John Eliot Gardiner,0
+O Rappa,0
+Marisa Monte,0
+Skank,0
+Led Zeppelin,0
+C. Monteverdi
+Gene Krupa,0
+Jack''s Mannequin & Mick Fleetwood,0
+Regina Spektor,0
+Spyro Gyra,0
+Sir Georg Solti & Wiener Philharmoniker,0
+Xis,0
+House Of Pain,0
+Battlestar Galactica,0
+Various Artists,0
+Amy Winehouse,0
+Academy of St. Martin in the Fields
+Anne-Sophie Mutter
+Chicago Symphony Orchestra & Fritz Reiner,0
+Corinne Bailey Rae,0
+Vinícius De Moraes & Baden Powell,0
+Queen,0
+Chicago Symphony Chorus
+Otto Klemperer & Philharmonia Orchestra,0
+Gerald Moore,0
+Berliner Philharmoniker & Hans Rosbaud,0
+Nash Ensemble,0
+Jota Quest,0
+Raimundos,0
+Karsh Kale,0
+Santana Feat. Lauryn Hill & Cee-Lo,0
+English Concert & Trevor Pinnock,0
+Milton Nascimento,0
+Guns N'' Roses,0
+Bebel Gilberto,0
+Jack Johnson,0
+Aisha Duo,0
+Cidade Negra,0
+UB40,0
+Mundo Livre S/A,0
+Os Cariocas,0
+London Symphony Orchestra & Sir Charles Mackerras,0
+Scholars Baroque Ensemble,0
+Jamiroquai,0
+Pearl Jam,0
+JET,0
+The Tea Party,0
+Barry Wordsworth & BBC Concert Orchestra,0
+System Of A Down,0
+Eugene Ormandy,0
+Santana Feat. Maná,0
+Pink Floyd,0
+The Clash,0
+Jorge Vercilo,0
+Los Hermanos,0
+João Suplicy,0
+Heroes,0
+Toquinho & Vinícius,0
+Titãs,0
+Calexico,0
+The King''s Singers,0
+Ozzy Osbourne,0
+Stone Temple Pilots,0
+Lenny Kravitz,0
+Chris Cornell,0
+Red Hot Chili Peppers,0
+Lost,0
+Eric Clapton,0
+Vinícius E Qurteto Em Cy,0
+Dhani Harrison & Jakob Dylan,0
+Avril Lavigne,0
+Sabotage E Instituto,0
+Kid Abelha,0
+Legião Urbana,0
+Cláudio Zoli,0
+Les Arts Florissants & William Christie,0
+Otto,0
+Frank Sinatra,0
+Jackson Browne,0
+A Cor Do Som,0
+Deep Purple,0
+Chor der Wiener Staatsoper
+The Black Crowes,0
+Santana Feat. Eagle-Eye Cherry,0
+Motörhead & Girlschool,0
+Matisyahu,0
+Azymuth,0
+Edson
+Equale Brass Ensemble
+Hilary Hahn
+Gonzaguinha,0
+The Who,0
+Gustavo & Andres Veiga & Salazar,0
+David Coverdale,0
+Choir Of Westminster Abbey & Simon Preston,0
+
+7. Donnez le genre de musique le plus écouté dans les années 2000.
+
+Query produced no results
+
+8. Donnez les noms de toutes les playlists où figurent des morceaux de plus de 4 minutes.
+
+
+NAME
+Grunge
+Classical 101 - The Basics
+90s Music
+Heavy Metal Classic
+Music Videos
+Music
+TV Shows
+Classical 101 - Deep Cuts
+Classical 101 - Next Steps
+Brazilian Music
+Classical
+
+9. Donnez les morceaux de Rock dont les artistes sont en France.
+
+Query produced no results
+
+10. Donnez la moyenne des tailles des morceaux par genre musical.
+
+
+GENREMUSICAL,MOYENNETAILLE
+Rock,266028.198397
+Jazz,277787.481283
+Metal,2280704.486486
+Alternative & Punk,280016.666667
+Rock And Roll,268515.000000
+
+11. Donnez les playlist où figurent des morceaux d'artistes nés avant 1990.
+
+
+PLAYLISTNAME
+Classical 101 - Next Steps
+Classical 101 - The Basics
+Music
+Classical 101 - Deep Cuts
+TV Shows
+90s Music
+Brazilian Music
+On-The-Go 1
+Classical
+Music Videos
+Heavy Metal Classic
+Grunge
+

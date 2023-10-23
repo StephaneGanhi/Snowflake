@@ -1,0 +1,50 @@
+Transformation des données normalisées en schéma en étoile
+
+Création des tables de dimension et de fait
+
+
+create table DimAlbum (
+AlbumId NUMERIC primary key,
+Title VARCHAR, 
+Prod_year NUMERIC, 
+Cd_year NUMERIC, 
+ArtistName VARCHAR, 
+Birthyear NUMERIC,
+Country VARCHAR
+);
+
+
+create table DimMediaType(
+MediaTypeId NUMERIC primary key,
+Name VARCHAR
+);
+
+create table DimGenre (
+GenderId NUMERIC primary key, 
+Name VARCHAR
+);
+
+create table DimPlaylistTrack (
+PlaylistId NUMERIC primary key,
+TrackId NUMBER, 
+Name VARCHAR
+);
+
+create table FactTrack (
+TrackId NUMBER primary key, 
+AlbumId NUMERIC, 
+PlaylistId NUMERIC, 
+MediaTypeId NUMERIC, 
+GenderId NUMERIC, 
+Name VARCHAR, 
+Composer VARCHAR, 
+Milliseconds NUMERIC, 
+Bytes NUMERIC, 
+UnitPrice NUMERIC,
+FOREIGN KEY (AlbumId) REFERENCES DimAlbum(AlbumId),
+FOREIGN KEY (PlaylistId) REFERENCES DimPlaylistTrack(PlaylistId),
+FOREIGN KEY (MediaTypeId) REFERENCES DimMediaType(MediaTypeId),
+FOREIGN KEY (GenderId) REFERENCES DimGenre(GenderId)
+);
+
+
